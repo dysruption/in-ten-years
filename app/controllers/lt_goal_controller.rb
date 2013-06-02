@@ -1,0 +1,2 @@
+class LtGoalController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class StGoalController < ApplicationController
+end
